@@ -1,0 +1,7 @@
+label	files	group
+Compl_EGDe_1	HTSeq_Compl_EGDe_1.txt	Compl
+Compl_EGDe_2	HTSeq_Compl_EGDe_2.txt	Compl
+Compl_EGDe_3	HTSeq_Compl_EGDe_3.txt	Compl
+WT_EGDe_1	HTSeq_WT_EGDe_1.txt	WT
+WT_EGDe_2	HTSeq_WT_EGDe_2.txt	WT
+WT_EGDe_3	HTSeq_WT_EGDe_3.txt	WT

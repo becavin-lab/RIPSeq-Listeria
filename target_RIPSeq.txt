@@ -1,0 +1,13 @@
+label	files	group	treatment	Media
+Fraction_BHI_1	FCount_Fraction_BHI_1.txt	Fraction_BHI	Fractions	BHI
+Fraction_BHI_2	FCount_Fraction_BHI_2.txt	Fraction_BHI	Fractions	BHI
+Fraction_Extract_1	FCount_Fraction_Extract_1.txt	Fraction_Extract	Fractions	Extract_BHI
+Fraction_Extract_2	FCount_Fraction_Extract_2.txt	Fraction_Extract	Fractions	Extract_BHI
+IP_LMO_BHI_1	FCount_IP_LMO_BHI_1.txt	IP_LMO_BHI	IP_LMO	BHI
+IP_LMO_BHI_2	FCount_IP_LMO_BHI_2.txt	IP_LMO_BHI	IP_LMO	BHI
+IP_LMO_Extract_1	FCount_IP_LMO_Extract_1.txt	IP_LMO_Extract	IP_LMO	Extract_BHI
+IP_LMO_Extract_2	FCount_IP_LMO_Extract_2.txt	IP_LMO_Extract	IP_LMO	Extract_BHI
+IP_PI_BHI_1	FCount_IP_PI_BHI_1.txt	IP_PI_BHI	IP_PI	BHI
+IP_PI_BHI_2	FCount_IP_PI_BHI_2.txt	IP_PI_BHI	IP_PI	BHI
+IP_PI_Extract_1	FCount_IP_PI_Extract_1.txt	IP_PI_Extract	IP_PI	Extract_BHI
+IP_PI_Extract_2	FCount_IP_PI_Extract_2.txt	IP_PI_Extract	IP_PI	Extract_BHI
